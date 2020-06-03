@@ -1,0 +1,14 @@
+D:\Desktop\DesignPatterns-master\Creational\FactoryMethod\obj\Debug\FactoryMethod.csprojAssemblyReference.cache
+D:\Desktop\DesignPatterns-master\Creational\FactoryMethod\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
+D:\Desktop\DesignPatterns-master\Creational\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+D:\Desktop\DesignPatterns-master\Creational\FactoryMethod\bin\Debug\FactoryMethod.exe
+D:\Desktop\DesignPatterns-master\Creational\FactoryMethod\bin\Debug\FactoryMethod.pdb
+D:\Desktop\DesignPatterns-master\Creational\FactoryMethod\obj\Debug\FactoryMethod.exe
+D:\Desktop\DesignPatterns-master\Creational\FactoryMethod\obj\Debug\FactoryMethod.pdb
+D:\Desktop\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+D:\Desktop\FactoryMethod\bin\Debug\FactoryMethod.exe
+D:\Desktop\FactoryMethod\bin\Debug\FactoryMethod.pdb
+D:\Desktop\FactoryMethod\obj\Debug\FactoryMethod.csprojAssemblyReference.cache
+D:\Desktop\FactoryMethod\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
+D:\Desktop\FactoryMethod\obj\Debug\FactoryMethod.exe
+D:\Desktop\FactoryMethod\obj\Debug\FactoryMethod.pdb
